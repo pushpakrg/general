@@ -1,0 +1,23 @@
+Requirements: Web Application Development
+
+Folder Structure
+Reusability - Shared Folder
+Code Modularization
+Coding Standard Documentation - Sonar Lint
+Proper code comments
+Performance - Lazy Loading, Minifying and Uglifying
+Authentication & Authorization
+Cross Browser Compatibility
+Reverse Engineering - CompoDoc Tool
+Code Review
+
+Design and Development
+Form Validations
+Error/Exception Handling
+State Management
+Responsive Design
+
+Unit Testing
+Automation Testing
+
+Production Build & Deployment
