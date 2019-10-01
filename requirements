@@ -1,10 +1,9 @@
 Requirements: Web Application Development
 
 Folder Structure
-Reusability - Shared Folder
+Reusability - Shared Folder & Low Level Components Breakdown
 Code Modularization
 Coding Standard Documentation - Sonar Lint
-Low Level Components Breakdown
 Global Styling
 Use of application wide constants
 Proper code comments
