@@ -4,6 +4,9 @@ Folder Structure
 Reusability - Shared Folder
 Code Modularization
 Coding Standard Documentation - Sonar Lint
+Low Level Components Breakdown
+Global Styling
+Use of application wide constants
 Proper code comments
 Performance - Lazy Loading, Minifying and Uglifying
 Authentication & Authorization
@@ -12,7 +15,7 @@ Reverse Engineering - CompoDoc Tool
 Code Review
 
 Design and Development
-Form Validations
+Form & Data Validations
 Error/Exception Handling
 State Management
 Responsive Design
