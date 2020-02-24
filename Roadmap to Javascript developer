@@ -16,7 +16,7 @@ DOM manipulation                                 |
 JS events                                        |
 Prototypes                                       |
 Coercion                                         |
-Hosting                                          |
+Hoisting                                          |
 Scope                                            |
 callback                                         |
 promises                                         |
