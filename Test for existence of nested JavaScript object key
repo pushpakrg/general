@@ -1,0 +1,9 @@
+function getNested(obj, ...args) {
+  return args.reduce((obj, level) => obj && obj[level], obj)
+}
+
+const test = { level1:{ level2:{ level3:'level3'} } };
+console.log(getNested(test, 'level1', 'level2', 'level3')); // 'level3'
+console.log(getNested(test, 'level1', 'level2', 'level3', 'length')); // 6
+console.log(getNested(test, 'level1', 'level2', 'foo')); // undefined
+console.log(getNested(test, 'a', 'b')); // undefined
